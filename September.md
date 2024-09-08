@@ -1,5 +1,5 @@
 September 6th:
--set up my progress journal &nbsp;&nbsp;&nbsp;&nbsp;
+ <p>-set up my progress journal</p>
 -decided the environment (Godot), language (C#), and what we're learning through (Codeacademy)
 -downloaded the resoruces needed (Godot, Visual Studio SDK)
 
