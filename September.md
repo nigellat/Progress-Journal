@@ -3,7 +3,7 @@
 <p>-decided the environment (Godot), language (C#), and what we're learning through (Codeacademy)</p>
 <p>-downloaded the resources needed (Godot, C# extension for Visual Studio Code</p>
 
-<h2>September 10th:</h2>
+<h1>September 10th:</h1>
 <p>-we decided to use gd script instead</p>
 <p>-started the "Learn GDScript From Zero" tutorial app thing</p>
 <p>-we plan to finish the Learn GDScript From Zero lessons within the next two weeks, I think??</p>
