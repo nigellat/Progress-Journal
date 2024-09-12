@@ -10,7 +10,7 @@
 <p>-looked for and found extra resources as well</p>
 <p>https://gdquest.github.io/learn-gdscript/?ref=godot-docs</p>
 
-<h3>September 12th:</h3>
+<h1>September 12th:</h1>
 <p>-continued working on the Learn GDScript From Zero lessons</p>
 <p>-currently I am up to lesson 9/27</p>
 <p>-so far the lessons feel like review just on variables, functions, and the basics with slightly different syntax!</p>
