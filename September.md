@@ -14,3 +14,9 @@
 <p>-continued working on the Learn GDScript From Zero lessons</p>
 <p>-currently I am up to lesson 9/27</p>
 <p>-so far the lessons feel like review just on variables, functions, and the basics with slightly different syntax!</p>
+
+<h1>September 20th:</h1>
+<p>-continued working on the lessons</p>
+<p>-currently on lesson 15/27 </p>
+<p>-so far, it felt like review again just on variables, functions, the basics (again) </p>
+<p>-I plan on starting to take notes for the language this weekend so that I can have that as a resource later on in the year</p>
