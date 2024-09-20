@@ -6,6 +6,7 @@
 <h1>September 10th:</h1>
 <p>-we decided to use gd script instead</p>
 <p>-started the "Learn GDScript From Zero" tutorial app thing</p>
+<p>link for website mentioned above: https://gdquest.github.io/learn-gdscript/?ref=godot-docs</p>
 <p>-we plan to finish the Learn GDScript From Zero lessons within the next two weeks, I think??</p>
 <p>-looked for and found extra resources as well</p>
 <p>https://gdquest.github.io/learn-gdscript/?ref=godot-docs</p>
