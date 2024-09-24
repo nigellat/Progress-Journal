@@ -21,3 +21,10 @@
 <p>-currently on lesson 15/27 </p>
 <p>-so far, it felt like review again just on variables, functions, the basics (again) </p>
 <p>-I plan on starting to take notes for the language this weekend so that I can have that as a resource later on in the year</p>
+
+<h1>September 24th:</h1>
+<p>-continued working on the lessons</p>
+<p>-currently on lesson 20/27</p>
+<p>-reviewed vectors and vector components as well as using while and for loops (same as before just different syntax and such)</p>
+<p>-found a gdScript reference that might be good (haven't look at it fully yet tho)</p>
+<p>https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html</p>
