@@ -14,7 +14,7 @@
 <h1>September 12th:</h1>
 <p>-continued working on the Learn GDScript From Zero lessons</p>
 <p>-currently I am up to lesson 9/27</p>
-<p>-so far the lessons feel like review just on variables, functions, and the basics with slightly different syntax!</p>
+<p>-so far, the lessons feel like a review just on variables, functions, and the basics with slightly different syntax!</p>
 
 <h1>September 20th:</h1>
 <p>-continued working on the lessons</p>
@@ -25,6 +25,13 @@
 <h1>September 24th:</h1>
 <p>-continued working on the lessons</p>
 <p>-currently on lesson 20/27</p>
-<p>-reviewed vectors and vector components as well as using while and for loops (same as before just different syntax and such)</p>
-<p>-found a gdScript reference that might be good (haven't look at it fully yet tho)</p>
+<p>-reviewed vectors and vector components as well as using while and for loops (same as before, just different syntax and such)</p>
+<p>-found a gdScript reference that might be good (haven't looked at it fully yet tho)</p>
 <p>https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html</p>
+
+<h1>September 29th:</h1>
+<p>-I didn't have class today, but I finally made up the work for the two classes where my computer was dead/I was sick</p>
+<p>-I finished the Learn to Code from Zero lessons (27/27!)</p>
+<p>-learned more about different types of variables and how they work together (very similar to what I already know with Java) </p>
+<p>-learnt what a dictionary is: a collection of key-value pairs, where each unique key maps to a specific value.</p>
+<p>-once again, everything is very similar to what I already know with my previous coding experience, just with different syntax</p>
