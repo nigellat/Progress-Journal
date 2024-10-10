@@ -9,3 +9,9 @@
 <p>-continued to work on the GDScript video tutorial, got to about 23 minutes into the video</p>
 <p>-I had an issue with one of my platforms not working, but I quickly realized I had forgotten to put the one-sided collision detection onto it!</p>
 <p>I plan to finish the rest of the video this weekend to catch up on some of the classes I have missed/wasn't able to work since my computer was dead</p>
+
+<h1>October 10th:</h1>
+<p>-Finished up the rest of the GDScript video tutorial on my own time (this was to make up for all the class time I wasn't able to work/was away)</p>
+<p>- </p>
+<p>- </p>
+<p>- </p>
