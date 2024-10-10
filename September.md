@@ -35,8 +35,3 @@
 <p>-learned more about different types of variables and how they work together (very similar to what I already know with Java) </p>
 <p>-learnt what a dictionary is: a collection of key-value pairs, where each unique key maps to a specific value.</p>
 <p>-once again, everything is very similar to what I already know with my previous coding experience, just with different syntax</p>
-<h1>October 10th:</h1>
-<p>-Finished up the rest of the GDScript video tutorial on my own time (this was to make up for all the class time I wasn't able to work/was away)</p>
-<p>- </p>
-<p>- </p>
-<p>- </p>
