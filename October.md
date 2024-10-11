@@ -18,4 +18,5 @@
 <p>-I learnt about how to do pickups with coins for a player in a basic game, how to deal with "dying" players, more worldbuilding, how to create an enemy, how to add text, a score, and audio to the game, and how to export the game to save it all!!!) </p>
 <p>-Doing a majority of the video tutorial all at once was a lot for my brain to handle, but it was all pretty straightforward besides my few learning curves</p>
 <p>-One of my "learning curves" was when I added in coins for the player to pick up when I would play the game. They started to move in the same motion as one of the moving platforms I had made prior. I realized this happened because I had added the coins in under the platform node(?), and so it had the animation added to it as well. To fix it, I moved the coin nodes above the platform nodes, and then it worked as I needed it to!! </p>
-<p>- </p>
+<p> I figured out how to export the game to my desktop and successfully created my first game!! </p>
+<p>-I think for next time, I will have to go back into my first game and see what I've done or look up other references or tutorials, but the more I use and get used to Godot, the easier it will be as besides a few silly mistakes,my only issues with godot have been not being used to it or familiar with how to use it yet!</p>
