@@ -19,4 +19,9 @@
 <p>-Doing a majority of the video tutorial all at once was a lot for my brain to handle, but it was all pretty straightforward besides my few learning curves</p>
 <p>-One of my "learning curves" was when I added in coins for the player to pick up when I would play the game. They started to move in the same motion as one of the moving platforms I had made prior. I realized this happened because I had added the coins in under the platform node(?), and so it had the animation added to it as well. To fix it, I moved the coin nodes above the platform nodes, and then it worked as I needed it to!! </p>
 <p> I figured out how to export the game to my desktop and successfully created my first game!! </p>
-<p>-I think for next time, I will have to go back into my first game and see what I've done or look up other references or tutorials, but the more I use and get used to Godot, the easier it will be as besides a few silly mistakes,my only issues with godot have been not being used to it or familiar with how to use it yet!</p>
+<p>-I think for next time, I will have to go back into my first game and see what I've done or look up other references or tutorials, but the more I use and get used to Godot, the easier it will be as besides a few silly mistakes, my only issues with godot have been not being used to it or familiar with how to use it yet!</p>
+
+<h1>October 15th:</h1>
+<p>-watched the videos provided by LP, took notes in one note (learnt what waterfall is and reviewed how Agile(Scrum) works</p>
+<p>-we use a form of agile for robotics, so it seems more familiar and also, due to group size and the opportunities for collaboration, we decided to use that over waterfall</p>
+<p>-decided on some dates for the timeline. We wanted some time to play around and figure out Godot a bit more, so we took that into consideration within our timeline before we start actually start the design process(start the backlog)</p>
