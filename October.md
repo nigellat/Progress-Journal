@@ -25,3 +25,7 @@
 <p>-watched the videos provided by LP, took notes in one note (learnt what waterfall is and reviewed how Agile(Scrum) works</p>
 <p>-we use a form of agile for robotics, so it seems more familiar and also, due to group size and the opportunities for collaboration, we decided to use that over waterfall</p>
 <p>-decided on some dates for the timeline. We wanted some time to play around and figure out Godot a bit more, so we took that into consideration within our timeline before we start actually start the design process(start the backlog)</p>
+
+<h1>October 29th:</h1>
+<p>-LP gave us an explanation of the new language portfolio and we looked at Janets example </p>
+<p>-I started making my new language portfolio (made a cava and got it organized!!)</p>
