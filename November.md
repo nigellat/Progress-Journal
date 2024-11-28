@@ -6,6 +6,3 @@ https://www.youtube.com/watch?v=-I_AdBkryoU</p>
 <p>-For next time, I plan on getting the rest of my space in Godot organized and making sure I understand what's what and then start creating the background and the snake character</p>
 <p>-My overall goal is to try and make the game on my own and play around with the actual coding part and Godot in general since there is so much going on, and I want to be able to know how to do at least the simple things like creating backgrounds and a simple character on my own...</p>
 <p>-I will most likely use the video tutorial as a base to help me when I'm stuck; however, otherwise, I want to try and do it entirely on my own!</p>
-
-<h1>November 28th:</h1>
-<p>...</p>
