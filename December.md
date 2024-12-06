@@ -16,3 +16,10 @@
 <p>https://www.youtube.com/watch?v=5H4A74FIEtg</p>
 <p>https://www.youtube.com/watch?v=p45gIhudtSQ</p>
 <p>https://www.youtube.com/watch?v=6nG71kB1EvM</p>
+
+<h1>December 6th:</h1>
+<p>-finished downloading git for my computer (realized the thing that was confusing me didn't even need to be done!!)</p>
+<p>-LP helped to set up the clone of the 40S Game GitHub repository for my GitHub desktop!! (code<>, open w/ desktop GitHub)</p>
+<p>-figured out that it was already connected to Godot (stuff I did before!!) </p>
+<p>-tested out pushing new stuff from Godot to the github by using the GitHub desktop and all of that and it worked!!!</p>
+<p>-we started brainstorming questions to ask Matt as we were conserned about version history and keeping track of stuff like that...</p>
