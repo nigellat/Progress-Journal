@@ -23,3 +23,8 @@
 <p>-figured out that it was already connected to Godot (stuff I did before!!) </p>
 <p>-tested out pushing new stuff from Godot to the github by using the GitHub desktop and all of that and it worked!!!</p>
 <p>-we started brainstorming questions to ask Matt as we were conserned about version history and keeping track of stuff like that...</p>
+
+<h1>December 10th:</h1>
+<p>-we finished up thinking of some questions for Matt</p>
+<p>-We tried to start making a list of deliverables but were having trouble since we were 100% sure on our game idea yet</p>
+<p>-we then kept designing and planning out and thinking about our game idea</p>
